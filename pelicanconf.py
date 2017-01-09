@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Yann van Ewijk'
 SITENAME = 'Technoprenerd'
-SITEURL = 'http://www.technoprenerd.com'
+SITEURL = ''
 
 PATH = 'content'
 
@@ -13,7 +13,7 @@ TIMEZONE = 'Europe/Amsterdam'
 DEFAULT_LANG = 'en'
 
 THEME = 'pelican-clean-blog'
-COLOR_SCHEME_CSS = 'monokai.css'
+COLOR_SCHEME_CSS = 'darkly.css'
 
 #HEADER_COLOR = 'black'
 HEADER_COVER = 'static/cyberpunk-1.jpg'
